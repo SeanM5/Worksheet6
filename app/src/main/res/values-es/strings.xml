@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hoja de cálculo5</string>
+    <string name="canvas">FragmentoDeLienzo</string>
+    <string name="palette">Actividad de la Paleta</string>
+    <string name="select">Selecciona un color</string>
+    <string-array name="colorArray">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Púrpura</item>
+        <item>Amarillo</item>
+        <item>Azul</item>
+    </string-array>
+
+
+</resources>
